@@ -430,6 +430,10 @@ ul {
   align-items: center;
 }
 
+textarea {
+  resize: vertical;
+}
+
 .cont-container {
   width: 90%;
 }
