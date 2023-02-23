@@ -150,6 +150,7 @@ ul {
   text-transform: capitalize;
   display: inline-block;
 }
+
 .btn:hover {
   background: var(--primary-700);
   box-shadow: var(--shadow-3);
@@ -309,7 +310,7 @@ ul {
 
 .undconst {
   width: 70vw;
-  height: 30vh;
+  height: 40vh;
   margin: 0 auto;
   border-radius: var(--borderRadius);
   margin-bottom:  6.25rem;
