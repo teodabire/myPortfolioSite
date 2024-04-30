@@ -74,6 +74,19 @@
         height: 40vh;
     }*/
 
+    #experience .article-container {
+        gap: 1rem;
+    }
+
+    #experience .details-container {
+        flex: initial;
+    }
+
+    #projects .about-containers {
+        flex-wrap: nowrap;
+        flex-direction: column;
+    }
+
     #profile {
         height: 83vh;
         margin-bottom: 0;
